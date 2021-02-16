@@ -55,7 +55,7 @@ h2 {
 }
 
 .parallax {
-    background-image: url(/images/music-5516006_1920.jpg);
+    background-image: url(images/music-5516006_1920.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -66,7 +66,7 @@ h2 {
 
 
 .parallax-ipad {
-    background-image: url(/images/ipad-605439_1280.jpg);
+    background-image: url(images/ipad-605439_1280.jpg);
     height: 600px;
     background-attachment: fixed;
     background-position: center;
@@ -1356,7 +1356,7 @@ a {
     margin-left: 100px;
     border-radius: 25px;
     padding: 5px;
-    float:rigt;
+    float:right;
     box-shadow:white;
     border:outset;
     width: 10px;
@@ -1415,7 +1415,7 @@ a {
     color: whitesmoke;
     background-blend-mode: soft-light; 
     border-radius: 5px; 
-    background-image: url(backward.jpg); 
+    background-image: url(images/backward.jpg); 
     background-size: 15px; 
     background-repeat: no-repeat; 
     background-position: right;
@@ -1427,7 +1427,7 @@ body.other .dropdown a:hover {
     color: rgba(255,123,0,0.9);
     /*background-color: rgba(255,170,89, 0.9);*/
     border-radius: 2px; 
-    background-image: url(backward1.png); 
+    background-image: url(images/backward1.png); 
     background-size: 10px; 
     background-repeat: no-repeat; 
     background-position: right;
