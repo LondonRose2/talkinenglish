@@ -55,7 +55,7 @@ h2 {
 }
 
 .parallax {
-    background-image: url(../images/music-5516006_1920.jpg);
+    background-image: url(images/music-5516006_1920.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -65,7 +65,7 @@ h2 {
 }
 
 .parallax-ipad {
-    background-image: url(../images/ipad-605439_1280.jpg);
+    background-image: url(images/ipad-605439_1280.jpg);
     height: 600px;
     background-attachment: fixed;
     background-position: center;
@@ -77,7 +77,7 @@ h2 {
 
 
 .parallax-business {
-    background-image: url(../images/discussion.jpg);
+    background-image: url(images/discussion.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -88,7 +88,7 @@ h2 {
 }
 
 .parallax-flag {
-    background-image: url(../images/aboutb.png);
+    background-image: url(images/aboutb.png);
     height: 700px;
     background-attachment:scroll;
     background-position: center;
@@ -98,7 +98,7 @@ h2 {
 }
 
 .parallax-native {
-    background-image: url(../images/globus-2534766_1280.png);
+    background-image: url(images/globus-2534766_1280.png);
     height: 800px;
     background-attachment: fixed;
     background-position: bottom;
@@ -109,7 +109,7 @@ h2 {
 
 
 .parallax-other {
-    background-image: url(../images/talktext.png);
+    background-image: url(images/talktext.png);
     height: 600px;
     background-attachment: scroll;
     background-position: center;
@@ -122,7 +122,7 @@ h2 {
 }
 
 .parallax-class {
-    background-image: url(../images/business-4677639_1280.png);
+    background-image: url(images/business-4677639_1280.png);
     height: 1200px;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -135,7 +135,7 @@ h2 {
 
 
 .parallax-movie1 {
-    background-image: url(../images/movie1.png);
+    background-image: url(images/movie1.png);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -148,7 +148,7 @@ h2 {
 }
 
 .parallax-movie2 {
-    background-image: url(../images/movie2.png);
+    background-image: url(images/movie2.png);
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -160,7 +160,7 @@ h2 {
 }
 
 .parallax-movie3 {
-    background-image: url(../images/discussion.jpg);
+    background-image: url(images/discussion.jpg);
     height: 250px;
     background-attachment: fixed;
     background-position: center;
@@ -176,7 +176,7 @@ h2 {
 
 
 .parallax-plane {
-    background-image: url(../images/eiffel-tower-351492_1280.jpg);
+    background-image: url(images/eiffel-tower-351492_1280.jpg);
     height: 700px;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -190,7 +190,7 @@ h2 {
 
 
 .parallax-cefraa {
-    background-image: url(../images/virtual-learning-5550480_1280.jpg);
+    background-image: url(images/virtual-learning-5550480_1280.jpg);
     height: 900px;
     padding: 100px 725px 200px 0px;
     background-attachment: fixed;
@@ -204,7 +204,7 @@ h2 {
 
 
 .parallax-abc4 {
-    background-image: url(../images/virtual-learning-5550480_1280.jpg);
+    background-image: url(images/virtual-learning-5550480_1280.jpg);
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -218,7 +218,7 @@ h2 {
 
 
 .parallax-courses{
-    background-image: url(../images/a5.png);
+    background-image: url(images/a5.png);
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -228,7 +228,7 @@ h2 {
 }
 
 .parallax-courses1{
-    background-image: url(../images/business-4677639_1280.png);
+    background-image: url(images/business-4677639_1280.png);
     height: 800px;
     background-attachment: fixed;
     background-position: bottom right;
@@ -241,7 +241,7 @@ h2 {
 
 
 .parallaxa1 {
-    background-image: url(../images/a1/Slide1.png);
+    background-image: url(images/a1/Slide1.png);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -253,7 +253,7 @@ h2 {
 
 
 .parallaxa2 {
-    background-image: url(../images/a1/Slide2.png);
+    background-image: url(images/a1/Slide2.png);
     height: 500px;
     background-attachment: fixed;
     background-blend-mode: lighten;
@@ -265,7 +265,7 @@ h2 {
 
 
 .parallaxa3 {
-    background-image: url(../images/a1/Slide3.png);
+    background-image: url(images/a1/Slide3.png);
     height: 500px;
     background-attachment: fixed;
     background-blend-mode: lighten;
@@ -277,7 +277,7 @@ h2 {
 
 
 .parallaxa4 {
-    background-image: url(../images/a1/Slide4.png);
+    background-image: url(images/a1/Slide4.png);
     height: 500px;
     background-attachment: fixed;
     background-blend-mode: lighten;
@@ -288,7 +288,7 @@ h2 {
 }
 
 .parallaxa5 {
-    background-image: url(../images/a1/Slide5.png);
+    background-image: url(images/a1/Slide5.png);
     height: 500px;
     background-attachment: fixed;
     background-blend-mode: lighten;
@@ -299,8 +299,8 @@ h2 {
 }
 
 .parallaxa6 {
-    background-image: url(../images/a1/Slide6.png);
-    background-image: cross-fade(url(../images/a1/Slide6.png)75%, url(../images/apple-1868496_1920.jpg) 25%);
+    background-image: url(images/a1/Slide6.png);
+    background-image: cross-fade(url(images/a1/Slide6.png)75%, url(images/apple-1868496_1920.jpg) 25%);
     height: 500px;
     background-attachment: fixed;
     background-blend-mode: lighten;
@@ -313,7 +313,7 @@ h2 {
 
 
 .parallax-about {
-    background-image: url(../images/business-card-1015284_1920.jpg);
+    background-image: url(images/business-card-1015284_1920.jpg);
     height: 600px;
     background-attachment: fixed;
     background-position: center;
@@ -327,7 +327,7 @@ h2 {
 
 
 .parallax-aboutme {
-    background-image: url(../images/aboutgray.png);
+    background-image: url(images/aboutgray.png);
     height: 600px;
     background-attachment: fixed;
     background-position: center;
@@ -343,7 +343,7 @@ h2 {
 
 
 .parallax-computer {
-    background-image: url(../images/apple-1868496_1920.jpg);
+    background-image: url(images/apple-1868496_1920.jpg);
     height: 900px;
     background-attachment: fixed;
     background-position: center;
@@ -364,7 +364,7 @@ h2 {
 
 .parallax-contact {
     
-    background-image: url(../images/music-4334557_1920.jpg);
+    background-image: url(images/music-4334557_1920.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: right;
@@ -375,7 +375,7 @@ h2 {
 
 .parallax-writing {
     
-    background-image: url(../images/writing-pad-3202747_1920.jpg);
+    background-image: url(images/writing-pad-3202747_1920.jpg);
     height: 600px;
     background-attachment: fixed;
     background-position: left;
@@ -398,7 +398,7 @@ h2 {
 
 body.other {
     /*background-image: url(../images/earphones-background1.png);*/
-    background-image: url(..images/ipad-605439_1280);
+    background-image: url(images/ipad-605439_1280);
     background-size:80%;
     background-attachment: fixed;
     background-position: center;
@@ -416,7 +416,7 @@ body.other h5 {
 }
 
 body.white{
-    background-image: url(..images/apple-1868496_1920);
+    background-image: url(images/apple-1868496_1920);
     background-size:80%;
     background-attachment: fixed;
     background-position: center;
@@ -867,7 +867,7 @@ a {
     margin-left: 500px;
     margin-top: 10px;
     margin-bottom: 500px;
-    /*background-image: url(..images/ipad-605439_1280.jpg);*/
+    /*background-image: url(images/ipad-605439_1280.jpg);*/
     height: 50px;
     width: 300px;
     text-align: center;
@@ -889,7 +889,7 @@ a {
     border-width: 5px;
     
     background-color:rgba(46, 44, 42, 0.9);
-    /*background-image: url(..images/ipad-605439_1280.jpg);*/
+    /*background-image: url(images/ipad-605439_1280.jpg);*/
     height: 700px;
     width: 100%;
     text-align: center;
@@ -918,7 +918,7 @@ a {
     margin-left: 500px;
     margin-top: 200px;
     background-color:rgba(0,0,0, 0.9);
-    /*background-image: url(..images/ipad-605439_1280.jpg);*/
+    /*background-image: url(images/ipad-605439_1280.jpg);*/
     height: 50px;
     width: 200px;
     text-align: center;
@@ -1414,7 +1414,7 @@ a {
     color: whitesmoke;
     background-blend-mode: soft-light; 
     border-radius: 5px; 
-    background-image: url(../images/backward.jpg); 
+    background-image: url(images/backward.jpg); 
     background-size: 15px; 
     background-repeat: no-repeat; 
     background-position: right;
@@ -1426,7 +1426,7 @@ body.other .dropdown a:hover {
     color: rgba(255,123,0,0.9);
     /*background-color: rgba(255,170,89, 0.9);*/
     border-radius: 2px; 
-    background-image: url(../images/backward1.png); 
+    background-image: url(images/backward1.png); 
     background-size: 10px; 
     background-repeat: no-repeat; 
     background-position: right;
