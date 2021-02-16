@@ -54,7 +54,7 @@ h2 {
     text-decoration: none;
 }
 
-/*.parallax {
+.parallax {
     background-image: url(images/music-5516006_1920.jpg);
     height: 500px;
     background-attachment: fixed;
@@ -62,11 +62,11 @@ h2 {
     background-repeat: no-repeat;
     background-size: 85.37%;
     /*margin-left: 100px;*/
-}*/
+}
 
 
 .parallax {
-    background-image: url(music-5516006_1920.jpg);
+    background-image: url(talkinenglish/images/music-5516006_1920.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
