@@ -1414,7 +1414,7 @@ a {
     color: whitesmoke;
     background-blend-mode: soft-light; 
     border-radius: 5px; 
-    background-image: url(images/backward.jpg); 
+    background-image: url(backward.jpg); 
     background-size: 15px; 
     background-repeat: no-repeat; 
     background-position: right;
@@ -1426,7 +1426,7 @@ body.other .dropdown a:hover {
     color: rgba(255,123,0,0.9);
     /*background-color: rgba(255,170,89, 0.9);*/
     border-radius: 2px; 
-    background-image: url(images/backward1.png); 
+    background-image: url(backward1.png); 
     background-size: 10px; 
     background-repeat: no-repeat; 
     background-position: right;
